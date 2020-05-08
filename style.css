@@ -1,0 +1,177 @@
+.first {
+    background-color: #007bff;
+}
+.millions {
+    padding: 4px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 14px;
+    color: cornsilk;
+
+}
+button {
+    padding: 4px;
+    margin-top: 12px;
+    text-align: center;
+}
+.iconss {
+    margin-top: 10px;
+    padding: 4px; 
+    font-size: larger;
+}
+a {
+    color: cornsilk;
+}
+.btn {
+    border-radius: 8px;
+    font-size: 12px;
+}
+
+div {
+    text-align: center;
+}
+ul li a {
+    color: black;
+}
+
+.mar {
+    margin: 18px;
+    padding: 0 5px;
+    background-color: #007bff;
+    color: cornsilk;
+}
+.multi {
+    color:  #007bff;
+    word-spacing: -8px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 6px;
+}
+.multi1 {
+    color:rgb(16, 167, 16);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 6px;
+}
+ul {
+    
+    margin-left: 80px;
+}  
+.logo {
+    width: 50%;
+    height: 70%;    
+}
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 3px;
+    width: 60%;
+    line-height: -2px;
+   
+}
+.separator::before, .separator::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid rgb(8, 199, 8);   
+}
+.separator::before {
+    margin-right: .25em;
+    
+}
+.separator::after {
+    margin-left: .25em;
+    
+}
+.intropara {
+    text-align: justify;
+    
+}
+.td {
+    color: black;
+    padding: 11px;
+    font-size: 18px;
+    
+}
+.tdgreen {
+    color: green;
+}
+.sticky-top {
+    position: sticky;
+} 
+.tb {
+    background-color: #007bff;
+   padding-top: 40px;
+   padding-bottom: 30px;
+   font-size: 21px;
+   color: white;
+   font: bold;
+}
+.num {
+    font-size: 30;
+    font-weight: bolder;
+}
+.multi2 {
+    font-size: 30px;
+    color: rgb(33, 33, 248);
+    font-weight: bolder;
+}
+.multi3 {
+    font-size: 30px;
+    color: green ;
+    font-weight: bolder ;
+}
+.effect2 {
+    -webkit-box-shadow: 1px 3px 5px 2px rgba(0,0,0,0.45);
+-moz-box-shadow: 1px 3px 5px 2px rgba(0,0,0,0.45);
+box-shadow: 1px 3px 5px 2px rgba(0,0,0,0.45);
+
+}
+.effect2 {
+    margin: 14px;
+}
+.h3 {
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.events {
+    
+    background-color: springgreen;
+}
+.ig {
+    width: 250px;
+    height: 200px;
+    padding: 12px;
+    margin: 12px;
+}
+.hidden {
+    visibility: hidden;
+}
+.address {
+    text-align: justify;
+    color: wheat;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ad {
+    color: green;
+}
+.add {
+    font-size: 14px;
+    text-align: justify;
+    
+}
+h5 {
+    color: wheat ;
+    font-weight: bold;
+}
+.icon {
+    
+    color: #007bff;
+}
+.blue {
+    background-color: #007bff;
+}
+.nav-link:hover {
+    background-color: #007bff;
+    border-radius: 15%;
+  }
